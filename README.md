@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosefBocan
-- 👀 I’m interested in DevOps and AI
-- 🌱 I’m currently learning K8s
+- 👀 I’m interested in DevOps and K8s
+- 🌱 I’m currently learning K8s and paragliding
 - 💞️ I’m looking to collaborate on any project where I can be usefull
 - 📫 How to reach me pepino.bocan@gmail.com
 
